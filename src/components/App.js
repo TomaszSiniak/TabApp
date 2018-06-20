@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './Header';
-import Main from './Main';
+import Header from './Header/Header';
+import Main from './Main/Main';
 import styles from '../assets/scss/main.scss';
 
 const App = () => {

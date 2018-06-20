@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../assets/scss/components/tabContent.scss';
+import styles from './tabContent.scss';
 
 const TabContent = () => (
   <div className={styles.tabContent}>
