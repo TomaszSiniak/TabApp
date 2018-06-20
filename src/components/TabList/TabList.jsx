@@ -1,9 +1,10 @@
 import React from 'react';
 import styles from './tabList.scss';
+import Tab from '../Tab/Tab';
 
 const TabList = () => (
   <div className={styles.tabList}>
-    <h1>Hello I am Tab List</h1>
+    <Tab />
   </div>
 );
 export default TabList;
